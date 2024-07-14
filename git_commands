@@ -9,3 +9,6 @@ git remote add origin <url>
 git branch -B main
 git push -u origin main
 git push
+git push --set-upstream url master
+git push --set-upstream origin <branch name>
+git branch

@@ -1,0 +1,10 @@
+git init
+git config --global user.name "ManoharNaidu Nagireddy"
+git config --global user.email "manoharnagireddy.devops@gmail.com"
+git clone <url>
+git add .
+git commit <file> -m "commint message"
+git remote -v
+git remote add origin <url>
+git branch -B main
+git push -u origin main

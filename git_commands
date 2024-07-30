@@ -12,3 +12,4 @@ git push
 git push --set-upstream url master
 git push --set-upstream origin <branch name>
 git branch
+git checkout -b <name>
